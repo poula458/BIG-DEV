@@ -1,0 +1,20 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.col-4{
+    background-image: linear-gradient(#fff,#eae78f,yellow);
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px black;
+    text-align: center;
+    border-radius: 10px;
+}
+i{
+    width: 40px;
+
+}
