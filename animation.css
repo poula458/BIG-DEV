@@ -14,7 +14,13 @@ body{
     text-align: center;
     border-radius: 10px;
 }
+div div{
+    transition: 1s;
+}
+div div:hover{
+    transform: rotateX('360deg');
+}
+
 i{
     width: 40px;
-
 }
