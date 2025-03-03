@@ -18,9 +18,8 @@ div div{
     transition: 1s;
 }
 div div:hover{
-    transform: rotateX('360deg');
+    transform: rotateX(180deg);
 }
-
-i{
-    width: 40px;
+img{
+    width: 150px;
 }
